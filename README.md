@@ -4,3 +4,4 @@
 * React-Redux
 * Redux Toolkit
 
+![](https://i.hizliresim.com/htu52jb.PNG)
